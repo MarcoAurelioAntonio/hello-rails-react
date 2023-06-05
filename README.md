@@ -100,7 +100,7 @@ To get a local copy up and running, follow these steps.
 ### Setup <a name="setup"></a>
 Open the terminal and clone the project
 ```
- git clone git@github.com:MarcoOquendoC/hello-rails-react.git
+ git clone git@github.com:MarcoAurelioAntonio/hello-rails-react.git
  cd hello-rails-react
 ```
 
